@@ -1,0 +1,26 @@
+body {
+    padding-left: 15px;
+    padding-top: 20px;
+    padding-right: 15px;
+}
+
+#awal{
+    padding-top: 12px;
+}
+
+.col {
+    font-weight:bold;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+.rowjudul{
+    display: flex;
+    justify-content: space-between;
+}
+
+.rowisi{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
